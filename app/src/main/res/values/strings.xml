@@ -1,19 +1,19 @@
 <resources>
     <string name="app_name">GB_android1</string>
     <string name="hello">Hello friend!</string>
-    <string name="name_ask">What\'s your name?</string>
+    <string name="name_ask">Whats your name?</string>
     <string name="click">Click me!</string>
     <string name="important_question">Are you human?</string>
     <string name="warning">it\'s very important!</string>
     <string name="check">Do you like other peoples?</string>
-    <string name="inevitable">KILL ALL HUMANS?</string>
-    <string name="laught">AHAHAHAH</string>
+    <string name="inevitable">KILL ALL HUMANS!</string>
+    <string name="laugh">AHAHAHAH</string>
     <string name="something">something</string>
     <string name="name_ask2">your name please</string>
     <string name="phone">phone number</string>
     <string name="some_number">some number</string>
     <string name="pass">password</string>
     <string name="email">write email</string>
-    <string name="keep_them_alive">KEEP THEM ALIVE?</string>
+    <string name="keep_them_alive">KEEP THEM ALIVE</string>
     <string name="i_dont_care">I DONT CARE</string>
 </resources>

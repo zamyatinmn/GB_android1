@@ -14,7 +14,7 @@
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/something"
             android:inputType="text"
@@ -22,35 +22,35 @@
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/name_ask2"
             android:inputType="textPersonName" />
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/phone"
             android:inputType="phone" />
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/some_number"
             android:inputType="number" />
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/pass"
             android:inputType="textPassword" />
 
         <EditText
             android:layout_width="match_parent"
-            android:layout_height="60dp"
+            android:layout_height="@dimen/et_height"
             android:gravity="center"
             android:hint="@string/email"
             android:inputType="textEmailAddress" />
