@@ -14,4 +14,6 @@
     <string name="some_number">some number</string>
     <string name="pass">password</string>
     <string name="email">write email</string>
+    <string name="keep_them_alive">KEEP THEM ALIVE?</string>
+    <string name="i_dont_care">I DONT CARE</string>
 </resources>

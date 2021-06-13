@@ -46,12 +46,29 @@
         android:layout_height="wrap_content"
         android:text="@string/check"/>
 
-    <RadioButton
+    <RadioGroup
+        android:id="@+id/radioGroup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:checked="true"
-        android:text="@string/inevitable"
-        />
+        android:gravity="center|start"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/inevitable" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/keep_them_alive" />
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/i_dont_care" />
+    </RadioGroup>
+
 
     <ToggleButton
         android:layout_width="wrap_content"
