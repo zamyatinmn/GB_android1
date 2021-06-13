@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="tv_textSize_hello">40sp</dimen>
+    <dimen name="btn_textSize_click">17sp</dimen>
+    <dimen name="btn_padding_click">20dp</dimen>
+    <dimen name="sw_textSize_isHuman">12sp</dimen>
+    <dimen name="et_height">60dp</dimen>
 </resources>
